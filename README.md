@@ -86,3 +86,7 @@ Then run:
 ```bash
 docker compose down
 ```
+
+## Screenshots
+
+[View the Hands-On 3 Screenshots PDF](H3_itcs6190-tsonkusa.pdf)
